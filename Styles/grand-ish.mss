@@ -269,9 +269,9 @@
     <vibratoPlacement>0</vibratoPlacement>
     <vibratoPosAbove x="0" y="-1"/>
     <vibratoPosBelow x="0" y="1"/>
-    <harmonyFretDist>1</harmonyFretDist>
-    <minHarmonyDistance>0.5</minHarmonyDistance>
-    <maxHarmonyBarDistance>3</maxHarmonyBarDistance>
+    <harmonyFretDist>1.5</harmonyFretDist>
+    <minHarmonyDistance>0.6</minHarmonyDistance>
+    <maxHarmonyBarDistance>2.5</maxHarmonyBarDistance>
     <maxChordShiftAbove>0</maxChordShiftAbove>
     <maxChordShiftBelow>0</maxChordShiftBelow>
     <harmonyPlacement>0</harmonyPlacement>
@@ -288,12 +288,12 @@
     <romanNumeralPosBelow x="0" y="3.5"/>
     <nashvilleNumberPosAbove x="0" y="-2.5"/>
     <nashvilleNumberPosBelow x="0" y="3.5"/>
-    <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+    <chordSymbolAFontFace>Times New Roman</chordSymbolAFontFace>
     <chordSymbolAFontSize>10</chordSymbolAFontSize>
     <chordSymbolALineSpacing>1</chordSymbolALineSpacing>
     <chordSymbolAFontSpatiumDependent>1</chordSymbolAFontSpatiumDependent>
     <chordSymbolAFontStyle>0</chordSymbolAFontStyle>
-    <chordSymbolAColor r="0" g="0" b="0" a="255"/>
+    <chordSymbolAColor r="170" g="0" b="0" a="255"/>
     <chordSymbolAAlign>left,baseline</chordSymbolAAlign>
     <chordSymbolAFrameType>0</chordSymbolAFrameType>
     <chordSymbolAFramePadding>0.2</chordSymbolAFramePadding>
@@ -301,12 +301,12 @@
     <chordSymbolAFrameRound>0</chordSymbolAFrameRound>
     <chordSymbolAFrameFgColor r="0" g="0" b="0" a="255"/>
     <chordSymbolAFrameBgColor r="255" g="255" b="255" a="0"/>
-    <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+    <chordSymbolBFontFace>Times New Roman</chordSymbolBFontFace>
     <chordSymbolBFontSize>10</chordSymbolBFontSize>
     <chordSymbolBLineSpacing>1</chordSymbolBLineSpacing>
     <chordSymbolBFontSpatiumDependent>1</chordSymbolBFontSpatiumDependent>
     <chordSymbolBFontStyle>2</chordSymbolBFontStyle>
-    <chordSymbolBColor r="0" g="0" b="0" a="255"/>
+    <chordSymbolBColor r="170" g="0" b="0" a="255"/>
     <chordSymbolBAlign>left,baseline</chordSymbolBAlign>
     <chordSymbolBFrameType>0</chordSymbolBFrameType>
     <chordSymbolBFramePadding>0.2</chordSymbolBFramePadding>
@@ -398,11 +398,11 @@
     <lowerCaseMinorChords>0</lowerCaseMinorChords>
     <lowerCaseBassNotes>0</lowerCaseBassNotes>
     <allCapsNoteNames>0</allCapsNoteNames>
-    <chordStyle>std</chordStyle>
+    <chordStyle>jazz</chordStyle>
     <chordsXmlFile>0</chordsXmlFile>
-    <chordDescriptionFile>chords_std.xml</chordDescriptionFile>
-    <chordExtensionMag>1</chordExtensionMag>
-    <chordExtensionAdjust>0</chordExtensionAdjust>
+    <chordDescriptionFile>chords_jazz.xml</chordDescriptionFile>
+    <chordExtensionMag>0.8</chordExtensionMag>
+    <chordExtensionAdjust>-4</chordExtensionAdjust>
     <chordModifierMag>1</chordModifierMag>
     <chordModifierAdjust>0</chordModifierAdjust>
     <concertPitch>0</concertPitch>
@@ -426,7 +426,7 @@
     <oldStyleMultiMeasureRests>0</oldStyleMultiMeasureRests>
     <mmRestOldStyleMaxMeasures>9</mmRestOldStyleMaxMeasures>
     <mmRestOldStyleSpacing>0.85</mmRestOldStyleSpacing>
-    <hideEmptyStaves>1</hideEmptyStaves>
+    <hideEmptyStaves>0</hideEmptyStaves>
     <dontHideStavesInFirstSystem>0</dontHideStavesInFirstSystem>
     <enableIndentationOnFirstSystem>1</enableIndentationOnFirstSystem>
     <firstSystemIndentationValue>5</firstSystemIndentationValue>
