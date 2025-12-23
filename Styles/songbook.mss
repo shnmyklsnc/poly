@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.60">
   <Style>
-    <pageWidth>8.27</pageWidth>
-    <pageHeight>11.69</pageHeight>
-    <pagePrintableWidth>8.07</pagePrintableWidth>
-    <pageEvenLeftMargin>0.1</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.1</pageOddLeftMargin>
-    <pageEvenTopMargin>0.3</pageEvenTopMargin>
-    <pageEvenBottomMargin>0</pageEvenBottomMargin>
-    <pageOddTopMargin>0.3</pageOddTopMargin>
-    <pageOddBottomMargin>0</pageOddBottomMargin>
+    <pageWidth>8.5</pageWidth>
+    <pageHeight>11</pageHeight>
+    <pagePrintableWidth>7.3189</pagePrintableWidth>
+    <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+    <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+    <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+    <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+    <pageOddTopMargin>0.590551</pageOddTopMargin>
+    <pageOddBottomMargin>0.590551</pageOddBottomMargin>
     <pageTwosided>1</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
     <staffLowerBorder>7</staffLowerBorder>
@@ -720,7 +720,7 @@
     <titleFrameFgColor r="0" g="0" b="0" a="255"/>
     <titleFrameBgColor r="255" g="255" b="255" a="0"/>
     <titlePosition>left</titlePosition>
-    <subTitleFontFace>Berlin Sans FB</subTitleFontFace>
+    <subTitleFontFace>Bahnschrift</subTitleFontFace>
     <subTitleFontSize>12</subTitleFontSize>
     <subTitleLineSpacing>1</subTitleLineSpacing>
     <subTitleFontSpatiumDependent>0</subTitleFontSpatiumDependent>
@@ -1798,6 +1798,6 @@
     <repeatPlayCountShow>0</repeatPlayCountShow>
     <repeatPlayCountShowSingleRepeats>0</repeatPlayCountShowSingleRepeats>
     <systemObjectsBelowBottomStaff>0</systemObjectsBelowBottomStaff>
-    <spatium>1.6256</spatium>
+    <spatium>1.74978</spatium>
     </Style>
   </museScore>
