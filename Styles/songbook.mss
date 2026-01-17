@@ -379,7 +379,7 @@
     <showPageNumber>1</showPageNumber>
     <showPageNumberOne>0</showPageNumberOne>
     <pageNumberOddEven>1</pageNumberOddEven>
-    <showMeasureNumber>1</showMeasureNumber>
+    <showMeasureNumber>0</showMeasureNumber>
     <showMeasureNumberOne>0</showMeasureNumberOne>
     <measureNumberInterval>5</measureNumberInterval>
     <measureNumberSystem>1</measureNumberSystem>
@@ -447,7 +447,7 @@
     <oldStyleMultiMeasureRests>0</oldStyleMultiMeasureRests>
     <mmRestOldStyleMaxMeasures>9</mmRestOldStyleMaxMeasures>
     <mmRestOldStyleSpacing>0.85</mmRestOldStyleSpacing>
-    <hideEmptyStaves>0</hideEmptyStaves>
+    <hideEmptyStaves>1</hideEmptyStaves>
     <dontHideStavesInFirstSystem>0</dontHideStavesInFirstSystem>
     <enableIndentationOnFirstSystem>1</enableIndentationOnFirstSystem>
     <firstSystemIndentationValue>5</firstSystemIndentationValue>
@@ -572,7 +572,7 @@
     <ottavaLineStyle>dashed</ottavaLineStyle>
     <ottavaDashLineLen>6</ottavaDashLineLen>
     <ottavaDashGapLen>6</ottavaDashGapLen>
-    <ottavaNumbersOnly>1</ottavaNumbersOnly>
+    <ottavaNumbersOnly>0</ottavaNumbersOnly>
     <ottavaFontFace>Edwin</ottavaFontFace>
     <ottavaFontSize>10</ottavaFontSize>
     <ottavaLineSpacing>1</ottavaLineSpacing>
@@ -1156,11 +1156,11 @@
     <systemTextFrameFgColor r="0" g="0" b="0" a="255"/>
     <systemTextFrameBgColor r="255" g="255" b="255" a="0"/>
     <systemTextPosition>left</systemTextPosition>
-    <staffTextFontFace>Edwin</staffTextFontFace>
+    <staffTextFontFace>Times New Roman</staffTextFontFace>
     <staffTextFontSize>10</staffTextFontSize>
     <staffTextLineSpacing>1</staffTextLineSpacing>
     <staffTextFontSpatiumDependent>1</staffTextFontSpatiumDependent>
-    <staffTextFontStyle>0</staffTextFontStyle>
+    <staffTextFontStyle>1</staffTextFontStyle>
     <staffTextColor r="0" g="0" b="0" a="255"/>
     <staffTextAlign>left,baseline</staffTextAlign>
     <staffTextOffsetType>1</staffTextOffsetType>
@@ -1205,18 +1205,18 @@
     <fretDiagramFretNumberFrameFgColor r="0" g="0" b="0" a="255"/>
     <fretDiagramFretNumberFrameBgColor r="255" g="255" b="255" a="0"/>
     <fretDiagramFretNumberPosition>left</fretDiagramFretNumberPosition>
-    <rehearsalMarkFontFace>Times New Roman</rehearsalMarkFontFace>
-    <rehearsalMarkFontSize>12</rehearsalMarkFontSize>
+    <rehearsalMarkFontFace>Arial Narrow</rehearsalMarkFontFace>
+    <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
     <rehearsalMarkLineSpacing>1</rehearsalMarkLineSpacing>
-    <rehearsalMarkFontSpatiumDependent>1</rehearsalMarkFontSpatiumDependent>
+    <rehearsalMarkFontSpatiumDependent>0</rehearsalMarkFontSpatiumDependent>
     <rehearsalMarkFontStyle>1</rehearsalMarkFontStyle>
-    <rehearsalMarkColor r="255" g="0" b="0" a="255"/>
+    <rehearsalMarkColor r="94" g="94" b="94" a="255"/>
     <rehearsalMarkAlign>center,baseline</rehearsalMarkAlign>
-    <rehearsalMarkFrameType>2</rehearsalMarkFrameType>
+    <rehearsalMarkFrameType>1</rehearsalMarkFrameType>
     <rehearsalMarkFramePadding>0.5</rehearsalMarkFramePadding>
     <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
     <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-    <rehearsalMarkFrameFgColor r="255" g="0" b="0" a="255"/>
+    <rehearsalMarkFrameFgColor r="94" g="94" b="94" a="255"/>
     <rehearsalMarkFrameBgColor r="255" g="255" b="255" a="0"/>
     <rehearsalMarkPosition>center</rehearsalMarkPosition>
     <rehearsalMarkPlacement>0</rehearsalMarkPlacement>
@@ -1415,8 +1415,8 @@
     <copyrightFrameFgColor r="0" g="0" b="0" a="255"/>
     <copyrightFrameBgColor r="255" g="255" b="255" a="0"/>
     <copyrightPosition>center</copyrightPosition>
-    <pageNumberFontFace>Edwin</pageNumberFontFace>
-    <pageNumberFontSize>11</pageNumberFontSize>
+    <pageNumberFontFace>Calisto MT</pageNumberFontFace>
+    <pageNumberFontSize>8</pageNumberFontSize>
     <pageNumberLineSpacing>1</pageNumberLineSpacing>
     <pageNumberFontSpatiumDependent>0</pageNumberFontSpatiumDependent>
     <pageNumberFontStyle>1</pageNumberFontStyle>
@@ -1798,6 +1798,6 @@
     <repeatPlayCountShow>0</repeatPlayCountShow>
     <repeatPlayCountShowSingleRepeats>0</repeatPlayCountShowSingleRepeats>
     <systemObjectsBelowBottomStaff>0</systemObjectsBelowBottomStaff>
-    <spatium>1.74978</spatium>
+    <spatium>1.143</spatium>
     </Style>
   </museScore>
